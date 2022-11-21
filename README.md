@@ -1,6 +1,6 @@
 # kiepscyplayer.github.io
 Strona powstała jedynie w celach edukacyjnych.
-Wszelkie prawa należą do telewizji Polsat. Nie zastrzegamy sobie praw do niczego na stronie.
+Świat wg. Kiepskich należy do telewizji Polsat. Nie zastrzegamy sobie praw do niczego na stronie.
 
 Odcinki nie są przechowywane u nas w repozytorium, są strumieniowane bezpośrednio z serwerów Polsatu.
 
