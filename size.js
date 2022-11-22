@@ -21,4 +21,6 @@ function updateSize() {
 }
 
 updateSize()
-window.onresize = updateSize
+if (!mobileCheck()) {
+   window.onresize = updateSize
+}
