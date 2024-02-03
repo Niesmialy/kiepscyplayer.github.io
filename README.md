@@ -7,5 +7,5 @@ Odcinki nie są przechowywane u nas w repozytorium, są strumieniowane bezpośre
 Kod strony udostępniamy na zasadzie "róbta co chceta'.
 (I tak nie jest zbyt skomplikowany)
 
-Strona kontynuowana przez użytkownika Niesmialy
+Strona jest kontynuowana przez użytkownika Niesmialy.
 
