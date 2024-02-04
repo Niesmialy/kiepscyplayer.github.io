@@ -7,5 +7,5 @@ Odcinki nie są przechowywane u nas w repozytorium, są strumieniowane bezpośre
 Kod strony udostępniamy na zasadzie "róbta co chceta".
 (I tak nie jest zbyt skomplikowany)
 
-Strona została uzupełniony dwoma ostatnimi sezonami ŚwK przez użytkownika Niesmialy.
+Strona została uzupełniona dwoma ostatnimi sezonami ŚwK przez użytkownika Niesmialy.
 
