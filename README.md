@@ -7,5 +7,6 @@ Odcinki nie są przechowywane u nas w repozytorium, są strumieniowane bezpośre
 Kod strony udostępniamy na zasadzie "róbta co chceta'.
 (I tak nie jest zbyt skomplikowany)
 
-Strona jest kontynuowana przez użytkownika Niesmialy.
+Strona jest uzupełniona dwoma ostatnimi sezonami.
+-Niesmialy
 
