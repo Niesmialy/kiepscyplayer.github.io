@@ -8,5 +8,6 @@ Kod strony udostępniamy na zasadzie "róbta co chceta'.
 (I tak nie jest zbyt skomplikowany)
 
 Strona jest uzupełniona dwoma ostatnimi sezonami.
+
 -Niesmialy
 
