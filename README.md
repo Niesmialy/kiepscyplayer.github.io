@@ -1,4 +1,4 @@
-# kiepscyplayer.github.io
+# WAŻNE!
 Strona powstała jedynie w celach edukacyjnych.
 Świat według Kiepskich należy do Telewizji Polsat. Nie zastrzegamy sobie praw do niczego na stronie.
 
